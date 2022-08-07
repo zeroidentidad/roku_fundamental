@@ -25,3 +25,10 @@
 
 <h2 align="center">Features by device degradation:</h2>
 <p align="center"><img align='center' src="./imgs/captura_8.png"></p>
+
+
+## Display multimedia content
+
+- Use Content Feed with Nodes [developer.roku.com/es-mx/videos/courses/rsg/content-feed](https://developer.roku.com/es-mx/videos/courses/rsg/content-feed.md) - with video from CND (Content Delivery Network) or OVP (Online Video Platform) on [feed.json](./src_feed_samples/roku-developers-feed-v1.json) format sample
+
+- Follow Direct Publisher Feed format specifications [developer.roku.com/es-mx/docs/specs/direct-publisher-feed-specs/feed-spec](https://developer.roku.com/es-mx/docs/specs/direct-publisher-feed-specs/feed-spec.md)
