@@ -22,20 +22,20 @@
 
 <h2 align="center">Source Code Directory Structure:</h2>
 <p align="center">
-    <img align='center' height="270" src="./imgs/captura.png">
-    <img align='center' height="270" src="./imgs/captura_1.png">
+    <img align='center' height="200" src="./imgs/captura.png">
+    <img align='center' height="200" src="./imgs/captura_1.png">
 </p>
 <p align="center">
-    <img align='center' height="270"src="./imgs/captura_2.png">
-    <img align='center' height="270" src="./imgs/captura_3.png">
+    <img align='center' height="200"src="./imgs/captura_2.png">
+    <img align='center' height="200" src="./imgs/captura_3.png">
 </p>
 <p align="center">
-    <img align='center' height="270" src="./imgs/captura_4.png">
-    <img align='center' height="270" src="./imgs/captura_5.png">
+    <img align='center' height="200" src="./imgs/captura_4.png">
+    <img align='center' height="200" src="./imgs/captura_5.png">
 </p>
 <p align="center">
-    <img align='center' height="270" src="./imgs/captura_6.png">
-    <img align='center' height="270" src="./imgs/captura_7.png">
+    <img align='center' height="200" src="./imgs/captura_6.png">
+    <img align='center' height="200" src="./imgs/captura_7.png">
 </p>
 
 
@@ -67,3 +67,9 @@ splash_screen_hd=pkg:/images/splash_hd.jpg
 # Resolution
 ui_resolutions=hd
 ```
+
+## PDF documents
+
+- [/pdf](./pdf/)
+
+- [Roku TV Ready Technical Reference Manual .pdf](https://devtools.web.roku.com/rokutvready/documentation/Roku-TV-Ready-Technical-Reference-Manual.pdf) related to oficial [webtools](https://devtools.web.roku.com/) site
