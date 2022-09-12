@@ -72,4 +72,4 @@ ui_resolutions=hd
 
 - [/pdf](./pdf/)
 
-- [Roku TV Ready Technical Reference Manual .pdf](https://devtools.web.roku.com/rokutvready/documentation/Roku-TV-Ready-Technical-Reference-Manual.pdf) related to oficial [webtools](https://devtools.web.roku.com/) site
+- [Roku TV Ready Technical Reference Manual .pdf](https://devtools.web.roku.com/rokutvready/documentation/Roku-TV-Ready-Technical-Reference-Manual.pdf) related to official [webtools](https://devtools.web.roku.com/) site
